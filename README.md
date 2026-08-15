@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**zoxore/zoxore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vickry, an Industrial Engineering student who likes building things and exploring technology.
 
-Here are some ideas to get you started:
+I'm currently working on a few different things:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* My final project on a Clinical Decision Support System for early sepsis detection.
+* Machine learning and data-related projects.
+* Unity game development and other software experiments.
+
+---
+
+### Tools I use
+
+* Python, C#, Unity
+* Git, VS Code
+* Figma, Antigravity
+
+---
+
+### A Bit About Me
+
+* 🎓 Industrial Engineering student
+* 🤖 Interested in AI and machine learning
+* 🎮 Enjoy building things with Unity
+* 🧩 I like making things simple and useful
+
+---
+
+### Find me
+
+* [LinkedIn](https://linkedin.com/in/vickrya)
+* [Email](mailto:vickryalfallah05@gmail.com)
